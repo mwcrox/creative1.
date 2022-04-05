@@ -1,0 +1,38 @@
+img {
+  position: relative;
+  width: 100%;
+}
+img-2{
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
+h1 {
+  font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+
+.title {
+  text-align: center;
+  margin: 20px;
+}
+
+  .photo{
+    width: 2500px;
+    margin: 20px;
+  }
+  p {
+    margin: 10px;
+    text-align: center;
+    font-size: 32pt;
+  }
+  ul {
+    font-size: 18pt;
+  }
+  .contact {
+    margin: 20px;
+  }
+  .title {
+    margin: 40px;
+  }
+}
